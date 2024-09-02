@@ -50,11 +50,12 @@ Contributions are welcome! If you find any bugs or have suggestions for improvem
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Acknowledgments
-Scikit-learn Documentation <br>
-[Handwritten Digits Recognition Tutorial](https://scikit-learn.org/stable/auto_examples/classification/plot_digits_classification.html)<br>
-[Metrics and scoring: classification-report](https://scikit-learn.org/stable/modules/model_evaluation.html#classification-report)<br>
-[Metrics and scoring: Confusion matrix](https://scikit-learn.org/stable/modules/model_evaluation.html#confusion-matrix)<br>
-[The Digit Dataset](https://scikit-learn.org/stable/auto_examples/datasets/plot_digits_last_image.html#sphx-glr-auto-examples-datasets-plot-digits-last-image-py)<br>
-[Sci-kit learn datasets](https://scikit-learn.org/stable/api/sklearn.datasets.html)<br>
-[Support Vector Machines](https://scikit-learn.org/stable/modules/svm.html)<br>
+Acknowledgments:<br>
+Scikit-learn Documentation: <br>
+* [Handwritten Digits Recognition Tutorial](https://scikit-learn.org/stable/auto_examples/classification/plot_digits_classification.html)<br>
+* [Metrics and scoring: classification-report](https://scikit-learn.org/stable/modules/model_evaluation.html#classification-report)<br>
+* [Metrics and scoring: Confusion matrix](https://scikit-learn.org/stable/modules/model_evaluation.html#confusion-matrix)<br>
+* [The Digit Dataset](https://scikit-learn.org/stable/auto_examples/datasets/plot_digits_last_image.html#sphx-glr-auto-examples-datasets-plot-digits-last-image-py)<br>
+* [Scikit-learn datasets](https://scikit-learn.org/stable/api/sklearn.datasets.html)<br>
+* [Support Vector Machines](https://scikit-learn.org/stable/modules/svm.html)<br>
+* [Train-Test Split](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html#sklearn.model_selection.train_test_split)<br>
