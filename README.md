@@ -58,4 +58,6 @@ Scikit-learn Documentation: <br>
 * [The Digit Dataset](https://scikit-learn.org/stable/auto_examples/datasets/plot_digits_last_image.html#sphx-glr-auto-examples-datasets-plot-digits-last-image-py)<br>
 * [Scikit-learn datasets](https://scikit-learn.org/stable/api/sklearn.datasets.html)<br>
 * [Support Vector Machines](https://scikit-learn.org/stable/modules/svm.html)<br>
+* [Support Vector Machines: SVC](https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html#sklearn.svm.SVC)<br>
 * [Train-Test Split](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html#sklearn.model_selection.train_test_split)<br>
+* [StandardScaler](https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.StandardScaler.html)<br>
