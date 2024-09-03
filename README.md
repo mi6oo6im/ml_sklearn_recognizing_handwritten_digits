@@ -1,29 +1,37 @@
 ## Handwritten Digit Recognition
 
-TODO:after project finalization...
-
-This project demonstrates how to recognize handwritten digits using machine learning techniques. The project is based on a tutorial from Scikit-learn and utilizes the digits dataset for training and testing a classifier.
+This project demonstrates how to recognize handwritten digits using machine learning techniques. The project is based on a tutorial from Scikit-learn and utilizes the digits dataset for training and testing a classifier. The objective of this project is to serve as a steb-by-step tutorial and reference manual.
 
 Project Overview
 The goal of this project is to classify images of handwritten digits (0-9) using a machine learning model. We will use the Scikit-learn library in Python to:
 
-Load the digits dataset
-Preprocess the data
-Train a classifier
-Evaluate the model's performance
-Visualize some predictions
+* Load the digits dataset
+* Preprocess the data
+* Train a classifier
+* Evaluate the model's performance
+* Visualize some predictions
+* Test with manually created example using MS Paint
 Dataset
 The dataset used is the digits dataset provided by Scikit-learn. It contains 1,797 samples of 8x8 pixel grayscale images of handwritten digits. Each image is represented as a flattened array of 64 features.
 
-Technologies Used
-Python 3.x
-Scikit-learn: A machine learning library that provides simple and efficient tools for data analysis and modeling.
-Matplotlib: A plotting library used to visualize the data and model predictions.
-Installation
-To run the project, you'll need to have Python and the required libraries installed. You can install the necessary libraries using pip:
+Technologies Used:
+* Python 3.11
+* MS Windows 10
+* MS Paint
+
+Python Libraries:
+* numpy
+* pandas
+* matplotlib
+* seaborn
+* sklearn
+* pickle
+* skimage
+* PIL
+
+To run the project, you'll need to have Python and the required libraries installed. You can install the necessary libraries using pip or Conda.
 
 Run the Python script:
-
 Execute the script to train the model and visualize the results.
 
 Load the Dataset:
@@ -41,7 +49,7 @@ The model is evaluated on the test data, and accuracy metrics are calculated.
 Visualize Predictions:
 The project visualizes some of the test images along with their predicted labels to show the model's performance.
 
-Results
+Results:
 The classifier is expected to achieve a high accuracy rate, typically above 90%. Example predictions are displayed to showcase how well the model can recognize handwritten digits.
 
 Contributing
@@ -61,3 +69,9 @@ Scikit-learn Documentation: <br>
 * [Support Vector Machines: SVC](https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html#sklearn.svm.SVC)<br>
 * [Train-Test Split](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html#sklearn.model_selection.train_test_split)<br>
 * [StandardScaler](https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.StandardScaler.html)<br>
+
+Pithon Image Library Documentation: <br>
+* [Pillow Image](https://pillow.readthedocs.io/en/stable/reference/Image.html#PIL.Image.Image.resize)<br>
+
+Python Documentation: <br>
+* [Zip](https://docs.python.org/3.3/library/functions.html#zip)<br>
